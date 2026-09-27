@@ -1,14 +1,16 @@
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/fissishe/basf-util/refs/heads/main/imgs/bauti-logo.webp"
-    width="256"
-    height="256"
+    width="128"
+    height="128"
     alt="Official repository logo made by Jody"
   >
   <h1>BASF-Util</h1>
 </div>
 
-A [Luau](https://luau.org/) Utility library for easier to access internal system in [BASF](https://www.roblox.com/games/4435144047) and utility functions are making your own project faster to develop.
+BASF-Util is a utility library written in [Luau](https://luau.org/) and [Lua](https://lua.org/) for easier to access internal system and develop your own script faster.
 
+## Luau
+[Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) is an open-source programming language influenced by [Lua](https://en.wikipedia.org/wiki/Lua) since 2019 for [Roblox](https://en.wikipedia.org/wiki/Roblox) platform with [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) feature and more to improve the development with dynamic type check and type correction.
 
-*This repository is used for researching underlying BASF system and all codes were written from scratch, and not affiliated with [Prestonina](https://www.roblox.com/communities/4948453/Prestonia#!/about) and [Prestoina Development Group](https://www.roblox.com/communities/5284966/Prestonia-Development-Group#!/about). Contributors involved are not game staff and won't take any accountability and responsibility for getting banned in game.*
+<p align="center">This repository is not affiliated with Prestonina, and contributors involved are not game admin.</p>
