@@ -166,6 +166,12 @@ function Util.Build.GetBlockOwnership(Block: PVInstance): Player?
 	return nil
 end
 
+
+function Util.Build.Paint(Block: PVInstance, Color: Color3): ()
+	Util.Instances.Post:FireServer("Paint", Block, Color)
+end
+
+
 -- Plot
 
 function Util.Plot.Claim(Plot: number): ()
