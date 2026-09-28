@@ -20,7 +20,7 @@ if Util then
 		if Item.Owner then
 			print(("%f Plot owned by %s"):format(Item.Plot, Item.Owner.Name))
 		else
-			print(("%d Plot is empty"):format(Item.Plot))
+			print(("%f Plot is empty"):format(Item.Plot))
 		end
 	end
 end
