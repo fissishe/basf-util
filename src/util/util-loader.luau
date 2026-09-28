@@ -7,7 +7,7 @@ local function Main(): { [any]: any }?
 		return loadstring(Code)()
 	end
 
-	return {}
+	return nil
 end
 
 return Main()
