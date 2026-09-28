@@ -8,10 +8,10 @@
 	<h1>BASF-Util</h1>
 </div>
 
-BASF-Util is a utility library written in [Luau](https://luau.org/) and [Lua](https://lua.org/) for easier to access internal system and develop your own script faster.
+BASF-Util is a utility library written in [Luau](https://luau.org/) and [Lua](https://lua.org/) for easier access to internal systems and quicker script development.
 
 ### Example
-This code will print all plots into the console. You can press <kbd>F9</kbd> or type `/console` into the chat to open the [Developer Console](https://create.roblox.com/docs/studio/developer-console) or look into Console log in your executor to see a result.
+This code will print all plots into the console. You can press <kbd>F9</kbd> or type `/console` into the chat to open the [Developer Console](https://create.roblox.com/docs/studio/developer-console), or view your executor's console to see the result.
 ```luau
 local Util = loadstring(game:HttpGet("https://raw.githubusercontent.com/fissishe/basf-util/refs/heads/main/src/util/util-loader.luau"))()
 
@@ -27,9 +27,9 @@ end
 ```
 
 ## Luau
-[Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) is an open-source programming language influenced by [Lua](https://en.wikipedia.org/wiki/Lua) since 2019 for [Roblox](https://en.wikipedia.org/wiki/Roblox) platform with [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) feature and more to improve the development with dynamic type check and type correction.
+[Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) is an open-source programming language influenced by [Lua](https://en.wikipedia.org/wiki/Lua) since 2019 for the [Roblox](https://en.wikipedia.org/wiki/Roblox) platform with [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) and more, to improve development with dynamic type checking and type correction.
 
 <br>
 <br>
 
-<p align="center">This repository is not affiliated with Prestonina, and contributors involved are not game admin.</p>
+<p align="center">This repository is not affiliated with Prestonia, and contributors are not game moderators.</p>
